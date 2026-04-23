@@ -126,7 +126,7 @@ Once installed, the skill triggers automatically when you ask growth or GTM ques
 
 ## Credits
 
-**Skill creator:** [Anant Mendiratta](https://github.com/anantmendiratta)
+**Skill creator:** [Anant Mendiratta](https://linkedin.com/in/anantmendiratta) — founder of [Fractics](https://fractics.com)
 
 **Frameworks:** This skill is built on Brian Balfour's Four Fits Growth Framework. Brian is the founder of Reforge and one of the most rigorous thinkers on sustainable company growth. The Four Fits framework — Market-Product, Product-Channel, Channel-Model, Model-Market — is the diagnostic backbone of every strategy this skill produces.
 
