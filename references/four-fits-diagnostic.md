@@ -121,68 +121,126 @@ Brian Balfour's Four Fits Framework — adapted as a diagnostic you run on any b
 
 ## AI Era Overlays
 
-AI products interact with the Four Fits in ways that didn't exist before. Apply these overlays when the product's core value proposition involves an AI model.
+*Source: Brian Balfour, ["The Four Fits: A Growth Framework for the AI Era"](https://blog.brianbalfour.com/p/the-four-fits-a-growth-framework)*
+
+The Four Fits structure is unchanged. What has changed is the speed and magnitude of disruption in each fit. In the mobile era, capabilities, developer ecosystems, and user adoption took years to align. With AI, these compress into months. The same diagnostic still applies — but the clock runs faster, and one undetected broken fit can now destroy a business in a single quarter.
+
+Apply these overlays for any business that involves AI in its core product or distribution.
+
+---
 
 ### Market–Product Fit (AI)
 
-The novelty problem: AI products have a "wow moment" that drives early sign-ups but doesn't equal retained value. Early enthusiasm masks weak PMF.
+PMF is no longer a gradual journey. It is now an **inflection point** — found and lost almost instantly.
+
+**The Chegg precedent:** Chegg went from $1.2B valuation to $150M in nine months after ChatGPT launched. Students could instantly get free, personalized answers. Chegg's entire growth loop (company content → SEO → subscriptions → more content) broke in one product release from a competitor. This is the new PMF risk profile for any AI-era product.
+
+**The novelty problem:** AI products generate strong sign-ups on curiosity. Retention at Day 30 is the real signal. Users who say "it's impressive but I don't use it every day" have novelty PMF, not real PMF.
 
 **Additional diagnostic prompts:**
-- Is the AI actually needed, or is the value in the workflow wrapped around it? (Remove the AI; what remains? If users would still pay for the workflow, the AI is a feature. If the whole value collapses, AI is load-bearing.)
-- What happens after the novelty wears off at Day 30? (AI products that solve real problems retain. AI products that are impressive demonstrations don't.)
-- Is the AI reliably right enough that users trust it with real work — or do they still need to verify every output? (Reliability is the actual PMF signal for trust-heavy AI. Not accuracy in demos — accuracy when it matters.)
-- Would users miss it if it went away, or would they switch to GPT-4 directly for the same outcome?
+- Is the AI actually needed, or is the value in the workflow around it? Remove the AI — what remains? If users would still pay for the workflow, AI is a feature. If the value collapses without it, AI is load-bearing.
+- What happens after novelty wears off at Day 30? AI products solving real problems retain. AI demos don't.
+- Is the AI reliably right when it matters — or do users verify every output? Reliability, not demo accuracy, is the PMF signal in trust-heavy categories.
+- Would users miss it if it went away, or switch to ChatGPT directly for the same outcome?
+- **The expectation reset:** Users who love ChatGPT raise their bar for every other product. Does your product feel better than what they now expect from AI generally?
 
-**AI-specific broken signal:** Sign-ups are strong. Day-7 is reasonable. Day-30 falls off a cliff. Users say "it's impressive but I'm not sure I need it every day." This is novelty PMF, not real PMF. Narrow the ICP and the use case before spending on channels.
+**AI-specific broken signal:** Strong sign-ups. Decent Day-7. Day-30 falls off a cliff. Narrow the ICP and use case before spending anything on channels.
 
 ---
 
 ### Product–Channel Fit (AI)
 
-AI creates new product-native channels that didn't exist pre-2022:
+The SEO/UGC channel that powered $1B+ companies — TripAdvisor, Pinterest, Quora, G2, Yelp — is now structurally at risk. Users increasingly start research on ChatGPT rather than traditional search or category-specific platforms. Two disruption scenarios apply simultaneously:
 
-- **AI tool directories** (There's An AI For That, Futurepedia, Product Hunt AI, etc.) — high intent, but quality of traffic decays fast as directories fill up. Treat as launch moment, not steady-state channel.
-- **LLM marketplaces** (Claude App Store, OpenAI GPT Store, Anthropic Marketplace) — platform risk is real (the platform can build your product natively) but can be a high-quality early acquisition channel.
-- **Integration ecosystems** (Slack marketplace, Notion marketplace, VS Code extensions, Salesforce AppExchange) — this is Integration-Led growth; if the product lives inside a tool users already use daily, the channel is the integration itself.
-- **AI demo as sales motion** — a live AI demo compresses trust-building in ways no deck can. For sales-led AI products, the demo is the channel. Invest in making it flawless and replicable before anything else.
-- **Benchmark/eval publishing** — for developer tools and enterprise AI, publishing your benchmarks is content marketing. "We score X on Y benchmark" drives qualified inbound from buyers who care.
+1. **Existing channels collapse:** If Google loses meaningful traffic share, every company built on organic search is exposed — including the platforms that built businesses on top of Google's traffic.
+2. **New channels emerge and bypass existing ones:** ChatGPT and AI-native search are becoming starting points for high-consideration decisions (travel, software, B2B services). Early movers in AI-native distribution have compounding advantages.
+
+**AEO — AI Engine Optimization:** The equivalent of SEO, but for AI-powered discovery. Your product and content need to surface inside ChatGPT, Perplexity, and Claude responses — not just Google. This is an emerging, first-mover channel.
+
+**Other AI-native channels:**
+- **LLM marketplaces** (Claude App Store, OpenAI GPT Store) — platform risk is real, but high-quality early acquisition channel.
+- **Integration ecosystems** (VS Code, Slack, Notion, Salesforce AppExchange) — the integration IS the channel; adoption happens inside tools users already open.
+- **AI demo as sales motion** — compresses trust-building for sales-led products in ways no deck can. Make it flawless before anything else.
+- **Benchmark/eval publishing** — for dev tools and enterprise AI, your benchmark IS your content marketing.
+- **AI tool directories** (Futurepedia, There's An AI For That) — treat as launch moment, not steady-state.
 
 **Additional diagnostic prompts:**
-- Is the product API-first? If yes, developer-led growth (GitHub, HuggingFace, dev communities) should be in the mix.
-- Does the product live inside the user's existing workflow (in their IDE, their Slack, their CRM) or does it require them to go somewhere new? The latter has much higher activation friction.
-- Is the AI demo something a rep can replicate reliably — or does the AI sometimes fail in front of a prospect, damaging trust? (Brittle demos are a channel problem, not just a product problem.)
+- What % of your traffic currently comes from organic search? What's the plan if that drops 30% in 12 months?
+- Have you tested whether your ICP is starting product research in ChatGPT instead of Google? If yes, are you findable there?
+- Does the product live inside a tool the user already uses daily, or does it require a new destination? New destinations have dramatically higher activation friction in 2025.
+- Is the AI demo reliably replicable by a sales rep — or does failure in a demo damage trust irreparably?
+
+**Platform lifecycle warning:** Every distribution platform follows a pattern — open to attract developers, then close to monetize. Most current channels (Google SEO, Meta ads, LinkedIn) are deep in the "closing" phase. ChatGPT and AI-native search are currently open. Early presence there is worth disproportionate investment.
 
 ---
 
 ### Channel–Model Fit (AI)
 
-AI adds a new cost line that most frameworks ignore: **inference cost**. A $30/user/month SaaS product with $8/user/month inference is a 73% gross margin business — not the 80%+ SaaS benchmark. This changes channel math.
+Three mechanisms now break Channel–Model Fit that didn't exist in traditional SaaS:
+
+**1. Cost-to-serve increases:** Traditional SaaS gross margins exceeded 70%. Some AI products run at 35% gross margin. Every AI feature use incurs real inference cost. Users gravitate toward newer, more capable models — which are more expensive — even when older models would suffice. The free tier problem is structural: AI freemium can be loss-making in ways traditional freemium is not.
+
+**2. Channel collapse forces monetization shifts:** If SEO traffic declines, the next option is paid acquisition (PPC). PPC requires higher ARPU to support CAC. If ARPU is stuck at a level set during cheaper-channel times, the math breaks.
+
+**3. The Danger Zone:** AI products frequently end up here — ARPU too low for a human-powered sales motion, too high or too complex for pure viral/product-led channels. Stuck.
 
 **Additional diagnostic prompts:**
-- What's the inference cost per active user per month, at current usage and projected peak usage?
-- At scale, does the margin structure still support the planned acquisition channels? (A 50% gross margin AI product cannot run the same paid acquisition math as an 80% margin SaaS.)
-- Is pricing usage-based (tokens, calls, seats × usage)? If so, the CAC equation has a new variable: the cost-to-serve compounds with usage, which is both the opportunity and the risk.
-- Does the free tier exist — and if so, what's the cost of a free user? AI free tiers can be structurally loss-making in ways that traditional SaaS freemium is not.
+- What's the inference cost per active user per month at current usage and at 10× usage?
+- At your current gross margin (after inference), which channels are still mathematically viable?
+- Is there a pricing move (up-market, usage-based, outcome-based) that restores Channel–Model fit?
+- Does the free tier cost you money per user? If yes, what's the activation event that converts free to paid, and how fast does it happen?
 
 **The ARPU↔CAC spectrum for AI:**
 
 | Gross Margin (after inference) | Channel implication |
 |-------------------------------|---------------------|
 | > 75% | Standard SaaS channel math applies |
-| 60–75% | PLG and low-CAC channels are fine; SDRs need careful unit economics |
-| 40–60% | Must price higher or find near-zero CAC channels (virality, integration, community); paid acquisition math breaks |
-| < 40% | Channel–Model fit is broken. Raise price, reduce inference cost, or move model provider. |
+| 60–75% | PLG and low-CAC channels work; SDRs need careful unit economics |
+| 40–60% | Near-zero CAC channels only (virality, integration, community); paid math breaks |
+| < 40% | Channel–Model fit is broken. Raise price, cut inference cost, or change model provider. |
+
+**Outcome-based pricing as escape valve:** Intercom's Fin (AI support bot) charges 99 cents per resolved ticket rather than per seat. This model wouldn't exist without AI — it requires 100M+ tickets annually for Model–Market Fit — but it completely sidesteps the cost-to-serve problem by tying revenue directly to AI output. When Channel–Model fit breaks, pricing model innovation is often the fix.
 
 ---
 
 ### Model–Market Fit (AI)
 
-AI markets move faster. What's a new category in Q1 can be a commodity by Q4. The Model–Market fit question requires a 3-year view, not just "is the market large enough today."
+AI simultaneously expands and contracts markets. The same technology that opens new TAM closes existing SAM. Both are happening at once.
+
+**The five pathways to $100M (Christoph Janz):**
+
+| Animal | Customers | ARPU/year | Examples |
+|--------|-----------|-----------|---------|
+| Elephants | 1,000 | $100K+ | ServiceNow, enterprise AI |
+| Moose | 10,000 | $10K+ | HubSpot, mid-market SaaS |
+| Rabbits | 100,000 | $1K | SurveyMonkey, Mailchimp |
+| Mice | 1,000,000 | $100 | Dropbox, consumer subscriptions |
+| Flies | 10,000,000 | $10 (ads) | Facebook, Snapchat |
+
+AI disrupts this in two directions:
+
+- **Contraction:** Seat-based tools sell to companies with fewer employees in that function (support, data entry, translation). The TAM shrinks even as demand for the category grows.
+- **Expansion:** Canva's TAM exploded when users could describe designs instead of making them manually. No-code builders (Lovable, Bolt) opened markets that didn't exist. AI democratizes skills previously reserved for specialists.
+
+**Buyer persona shift:** AI creates new buying personas — operations leaders, automation-focused teams — with different authority structures, timelines, and success metrics than traditional IT buyers. The person who used to approve this software may no longer exist.
 
 **Additional diagnostic prompts:**
-- What is your moat when the underlying model commoditizes? Name it specifically — data flywheel, workflow embedding, network effects, proprietary dataset, or switching cost. "We use a better model" is not a moat.
-- **The commoditization pressure test:** Would your business survive if OpenAI/Google/Anthropic built your core feature natively into their product? If no — what would need to be true to change the answer? (This is the single most important question for AI product strategy.)
-- Is the market growing because AI is enabling a new behavior (durable), or because AI is novel and people are exploring (temporary)? The former compounds; the latter decays.
-- Are you competing with the model itself? (An AI writing tool competes with ChatGPT directly. A legal workflow automation that uses AI does not — it competes with the old workflow.) The former is a much harder position.
+- What is your moat when the underlying model commoditizes? Name it: data flywheel, workflow embedding, network effects, proprietary dataset, switching cost. "We use a better model" is not a moat.
+- **The commoditization pressure test:** Would your business survive if OpenAI/Google/Anthropic shipped your core feature natively? If no — what would need to be true to change that answer?
+- Is your market growing because AI enables a new behavior (durable), or because AI is novel and people are exploring (temporary)? The former compounds; the latter decays.
+- Are you competing with the model itself? A general AI writing tool competes with ChatGPT directly. A legal workflow automation that uses AI competes with the old workflow — entirely different position.
+- What's your pathway animal (Janz)? Does AI shift you up (fewer, higher-ARPU customers) or down (more, lower-ARPU customers)?
 
-**Revisit the diagnostic every quarter for AI businesses**, not every 6 months. Model releases from OpenAI, Anthropic, Google, and Meta can shift Market–Product fit and Product–Channel fit faster than any other technology era has experienced.
+---
+
+## Smooth Sailers vs. Tugboats
+
+When all four fits align, companies grow easily — despite organizational chaos, imperfect execution, and missed opportunities. Balfour calls these **Smooth Sailers**.
+
+When fits misalign, growth feels like pushing a boulder uphill. Every result requires exceptional execution. These are **Tugboats**.
+
+In the AI era, maintaining all four fits simultaneously has become exponentially harder because disruption hits all four dimensions at once — product capabilities shift weekly, markets expand/contract overnight, distribution channels obsolete, and cost structures break monetization models.
+
+**The diagnostic imperative:** Don't wait for a broken fit to reveal itself in the numbers. Run this diagnostic proactively every quarter. The Chegg collapse wasn't unpredictable — it was unexamined.
+
+**Revisit the diagnostic every quarter for AI businesses.** Model releases from OpenAI, Anthropic, Google, and Meta can shift Market–Product fit and Product–Channel fit faster than any technology era before. The fit that got you to $1M ARR may not survive a single competitor model release.

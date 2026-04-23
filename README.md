@@ -56,12 +56,17 @@ Growth is a muscle, not a motion. The skill selects one primary and one or two s
 
 ### AI Era Overlays
 
-The skill includes AI-specific extensions to the Four Fits:
-- Novelty PMF vs. retained PMF (Day-30 is the signal, not sign-up)
-- Inference cost as a new line in Channel–Model unit economics
-- The commoditization pressure test: "What if OpenAI ships this natively?"
-- Integration-Led growth as the dominant AI distribution pattern
-- AI demo as a trust-compression mechanism in sales motions
+Built directly from Balfour's 2025 essay ["The Four Fits: A Growth Framework for the AI Era"](https://blog.brianbalfour.com/p/the-four-fits-a-growth-framework), the skill applies updated overlays to each fit:
+
+**Market–Product:** PMF is now an inflection point, not a gradual journey. Companies can find and lose it in months (the Chegg precedent: $1.2B → $150M in nine months after ChatGPT launched). The skill distinguishes novelty sign-ups from retained PMF — Day-30 is the signal, not Day-1.
+
+**Product–Channel:** The SEO/UGC channel that built TripAdvisor, Pinterest, Quora, and G2 is structurally at risk. The skill flags AEO (AI Engine Optimization — being findable inside ChatGPT and Perplexity) as the emerging first-mover channel, alongside integration ecosystems and the AI demo as a sales motion.
+
+**Channel–Model:** Three new mechanisms break this fit — rising inference costs (some AI products run at 35% gross margin vs. 70%+ SaaS norm), channel collapse forcing expensive paid alternatives, and the Danger Zone where ARPU is too low for human sales but too complex for viral. The skill diagnoses which zone you're in and prescribes the exit.
+
+**Model–Market:** AI expands and contracts markets simultaneously. The skill uses Christoph Janz's five pathways to $100M (Elephants/Moose/Rabbits/Mice/Flies) to identify which pathway AI pushes you toward, and the commoditization pressure test to identify whether your moat is real.
+
+**Smooth Sailers vs. Tugboats:** When all four fits align, companies grow despite organizational chaos. When they misalign, every result requires exceptional execution. The skill is designed to find the misalignment before it shows up in the numbers.
 
 ---
 
@@ -126,7 +131,8 @@ Once installed, the skill triggers automatically when you ask growth or GTM ques
 **Frameworks:** This skill is built on Brian Balfour's Four Fits Growth Framework. Brian is the founder of Reforge and one of the most rigorous thinkers on sustainable company growth. The Four Fits framework — Market-Product, Product-Channel, Channel-Model, Model-Market — is the diagnostic backbone of every strategy this skill produces.
 
 - [brianbalfour.com](https://brianbalfour.com)
-- [Four Fits Growth Framework](https://brianbalfour.com/four-fits-growth-framework)
+- [Four Fits Growth Framework](https://brianbalfour.com/four-fits-growth-framework) — original essay
+- [The Four Fits: A Growth Framework for the AI Era](https://blog.brianbalfour.com/p/the-four-fits-a-growth-framework) — 2025 update, the primary source for the AI-era overlays in this skill
 - [Reforge](https://www.reforge.com)
 
 Additional frameworks adapted from first-principles thinking on growth motions, trust ladders, and signal metrics. All worked examples are original.

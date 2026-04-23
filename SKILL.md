@@ -103,7 +103,7 @@ Read `references/four-fits-diagnostic.md` for the full diagnostic questions and 
 
 **The broken or unknown fit is the thing Year 1 must prove.** Everything downstream flows from this.
 
-**For AI products:** Apply the AI Era Overlays in `references/four-fits-diagnostic.md`. The key additions are: (1) Market–Product — distinguish novelty sign-ups from retained PMF; (2) Product–Channel — factor in integration ecosystems and the AI demo as a sales channel; (3) Channel–Model — inference cost is a new line in the unit economics; (4) Model–Market — run the commoditization pressure test. For AI businesses, revisit the diagnostic every quarter, not every 6 months.
+**For AI products:** Apply the AI Era Overlays in `references/four-fits-diagnostic.md`. Key additions: (1) Market–Product — PMF can now collapse in months, not years; distinguish novelty sign-ups from retained PMF; (2) Product–Channel — the SEO/UGC channel that built $1B+ companies is structurally at risk; AEO (AI Engine Optimization) is the emerging first-mover channel; factor in integration ecosystems and AI demo as sales channel; (3) Channel–Model — inference cost is a new line in unit economics; watch for the Danger Zone where ARPU is too low for sales but too complex for viral; (4) Model–Market — run the commoditization pressure test; check which Janz pathway ($100M animal) AI shifts you toward. The goal is all four fits aligned — Balfour calls this a Smooth Sailer; misalignment makes you a Tugboat. For AI businesses, revisit every quarter, not every 6 months.
 
 ---
 
